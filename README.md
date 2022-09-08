@@ -1,11 +1,10 @@
-### Hey, what's up? 
+## Hey, what's up? 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Welcome to my github!
 <p>
-  I'm Vinicius Brito, a brazilian software developer 💻.
-  
+  I'm Vinicius Brito, a brazilian software developer 💻.  
 </p>
 
 <div style="display: inline_block"><br> 
