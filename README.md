@@ -1,6 +1,6 @@
 ## Hey, what's up? 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/111714040/211964655-7c5d74da-28d7-4eb9-b894-965da153b450.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Welcome to my github!
 <p>
@@ -19,8 +19,3 @@
 </div>
 
 ![Snake animation](https://github.com/vinnybrito/vinnybrito/blob/output/github-contribution-grid-snake.svg)
-
-<div>
-
-
-</div>
