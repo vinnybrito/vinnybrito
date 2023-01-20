@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/111714040/211964655-7c5d74da-28d7-4eb9-b894-965da153b450.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Welcome to my github!
+### Welcome to my GitHub!
 <p>
   I'm Vinicius Brito, a brazilian software developer 💻.  
 </p> <br> 
