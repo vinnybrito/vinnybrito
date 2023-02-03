@@ -4,11 +4,12 @@
 
 ### Welcome to my GitHub!
 <p>
-  I'm Vinicius Brito, a brazilian software developer 💻.  
+  My name is Vinicius, I'm 22 years old. 
+  At the moment I'm studying to become a Full Stack Developer.
 </p>
 
 <p>
-  learning to code in...
+  To code from code, I'm learning to use 👇🏽
 </p>
 
 <div style="display: inline_block">
@@ -30,6 +31,10 @@
   <a href="https://www.linkedin.com/in/vinicius-rbrito15/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <a href = "mailto: viny.rbrito18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/vinicius-rbrito15/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
   
 </div>
 
