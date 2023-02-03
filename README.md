@@ -31,10 +31,12 @@
   <a href="https://www.linkedin.com/in/vinicius-rbrito15/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto: viny.rbrito18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <p>
-    <img width="200px" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
+    <img width="200px" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
   </p>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=header"/>
 
 
 ![Snake animation](https://github.com/vinnybrito/vinnybrito/blob/output/github-contribution-grid-snake.svg)
+
 
