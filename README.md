@@ -1,4 +1,4 @@
-## Hey, what's up? 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&background=902EF200&width=435&lines=Hey%2C+what's+up%3F)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/111714040/211964655-7c5d74da-28d7-4eb9-b894-965da153b450.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -34,3 +34,4 @@
 
 
 ![Snake animation](https://github.com/vinnybrito/vinnybrito/blob/output/github-contribution-grid-snake.svg)
+
