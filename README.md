@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  To code from code, I'm learning to use 👇🏽
+  I'm learning to work with 👇🏽
 </p>
 
 <div style="display: inline_block">
