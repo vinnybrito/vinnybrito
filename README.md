@@ -31,8 +31,6 @@
   
   <a href = "mailto: viny.rbrito18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  <a href = "https://is.gd/2plkU9"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  
 </div>
 
 
