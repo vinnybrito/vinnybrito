@@ -23,7 +23,7 @@
   <p><strong>Back-End: </strong></p>
   
   <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
-   <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Node JS"/></code>
+   <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
 
 
   </div>
