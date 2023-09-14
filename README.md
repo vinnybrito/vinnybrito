@@ -4,7 +4,7 @@
 
 ### Welcome to my GitHub!
 <p>• • • 🌓 • • • 🌎 • • • 🪐 • • • ✨ • • •</p>
-<p>My name is Vinicius, I'm 22 years old. At the moment I'm studying to become a Full Stack Developer.</p>
+<p>My name is Vinicius, I'm 23 years old. At the moment I'm studying to become a Full Stack Developer.</p>
 
 <p>I'm learning to work with 👇🏽</p>
 
