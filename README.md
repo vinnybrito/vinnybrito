@@ -10,7 +10,11 @@
 
 ### Welcome to my GitHub!
 <p>• • • 🌓 • • • 🌎 • • • 🪐 • • • ✨ • • •</p>
-<p>My name is Vinicius, I'm 23 years old. At the moment I'm studying to become a Full Stack Developer.</p>
+<p>
+  I'm Vinicius, a student of Analysis and Systems Development with a focus on becoming a mobile app developer. Currently, 
+  I'm exploring the world of software development while interning in the field. I'm always eager to learn and enhance my technical skills. 
+  Let's connect and build amazing things together!
+</p>
 
 <p>I'm learning to work with 👇🏽</p>
 
