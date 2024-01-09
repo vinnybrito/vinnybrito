@@ -17,14 +17,10 @@
 
 <p>I'm learning to work with 👇🏽</p>
 
-<div style="display: flex; margin-bottom: 3rem">
-  <img title="HTML" draggable="false" width="54" src="icons/technologies/html.svg"> &nbsp; &nbsp;
-  <img title="CSS" draggable="false" width="54" src="icons/technologies/css.svg"> &nbsp; &nbsp;
-  <img title="Javascript" draggable="false" width="54" src="icons/technologies/javascript.svg"> &nbsp; &nbsp;
-  <img title="React" draggable="false" width="54" src="icons/technologies/react.svg"> &nbsp; &nbsp;
-  <img title="Typescript" draggable="false" width="54" src="icons/technologies/typescript.svg"> &nbsp; &nbsp;
-  <img title="Docker" draggable="false" width="54" src="icons/technologies/docker.svg"> &nbsp; &nbsp;
-  <img title="Git" draggable="false" width="54" src="icons/technologies/git.svg"> &nbsp; &nbsp;
-  <img title="Github" draggable="false" width="54" src="icons/technologies/github.svg"> &nbsp; &nbsp; 
-  <img title="Ubuntu" draggable="false" width="54" src="icons/technologies/ubuntu.svg"> &nbsp; &nbsp; 
-</div>
+### Main skills:
+![Swift](https://img.shields.io/badge/-swift-0D1117?style=for-the-badge&logo=swift&logoColor=orange&labelColor=)
+![Kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=&labelColor=0D1117)&nbsp; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![GitLab](https://img.shields.io/badge/-Gitlab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
