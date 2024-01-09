@@ -11,8 +11,7 @@
 ### Welcome to my GitHub!
 <p>• • • 🌓 • • • 🌎 • • • 🪐 • • • ✨ • • •</p>
 <p>
-  I'm Vinicius, a student of Analysis and Systems Development with a focus on becoming a mobile app developer. Currently, I'm 
-  exploring the world of software development while interning in the field. I'm always eager to learn and enhance my technical skills. 
+  I'm Vinicius, a student of Analysis and Systems Development with a focus on becoming a mobile app developer. 
 </p>
 
 <p>I'm learning to work with 👇🏽</p>
