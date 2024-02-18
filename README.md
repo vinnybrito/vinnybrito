@@ -7,29 +7,44 @@
   align="right" 
   alt="Computador iuriCode" 
   title = "💻">
-  
+
 ### Welcome to my GitHub!
 <p>• • • 🌓 • • • 🌎 • • • 🪐 • • • ✨ • • •</p>
 <p>
-  I'm Vinicius, a student of Analysis and Systems Development with a focus on becoming a mobile app developer. 
+   I'm Vinicius, a student of Analysis and Systems Development with a focus on becoming a mobile app developer. Currently
+   I'm exploring the world of software development through an internship. I'm always eager to learn and enhance my technical skills.
 </p>
 
 <p>I'm learning to work with 👇🏽</p>
 
-### Main skills:
-![Swift](https://img.shields.io/badge/-swift-0D1117?style=for-the-badge&logo=swift&logoColor=orange&labelColor=)
-![Kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=&labelColor=0D1117)&nbsp; 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![GitLab](https://img.shields.io/badge/-Gitlab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+<div style="display: inline_block">
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;![XCode](https://img.shields.io/badge/-XCODE-0D1117?style=for-the-badge&logo=xcode&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/-androistudio-0D1117?style=for-the-badge&logo=androidstudio&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;![Mac](https://img.shields.io/badge/-mac-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
+  <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML" /></code>
+  <code><img align="center" alt="vinny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS"></code>
+  <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
+  <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React Native"/></code>  
+  <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "React"/></code> 
+  <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "Node JS"/></code>
+  <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
+  <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
+   
+  </div>
 
-### Other Knowledge:
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<hr width="300px">
+
+### Contact
+
+<div> 
+  <a href="https://www.linkedin.com/in/vinicius-rbrito15/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto: viny.rbrito18@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <p>
+    <img width="200px" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+  </p>
+</div>
+
+
+![Snake animation](https://github.com/vinnybrito/vinnybrito/blob/output/github-contribution-grid-snake.svg)
