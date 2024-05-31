@@ -11,8 +11,9 @@
 ### Welcome to my GitHub!
 <p>• • • 🌓 • • • 🌎 • • • 🪐 • • • ✨ • • •</p>
 <p>
-   I'm Vinicius, a student of Analysis and Systems Development with a focus on becoming a mobile app developer. Currently
-   I'm exploring the world of software development through an internship. I'm always eager to learn and enhance my technical skills.
+  My name is Vinicius, and I'm an Android developer focused on Kotlin and front-end development. 
+  I'm passionate about creating mobile apps that are intuitive, efficient, and provide a smooth 
+  and engaging user experience.
 </p>
 
 <p>I'm learning to work with 👇🏽</p>
