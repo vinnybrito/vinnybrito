@@ -16,7 +16,7 @@
   and engaging user experience.
 </p>
 
-<p>I'm learning to work with 👇🏽</p>
+<p>Skills👇🏽</p>
 
 <div style="display: inline_block">
 
