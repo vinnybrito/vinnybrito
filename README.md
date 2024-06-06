@@ -19,7 +19,7 @@
 <p>Skills👇🏽</p>
 
 <div style="display: inline_block">
-
+  <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title = "Kotlin" /></code>
   <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML" /></code>
   <code><img align="center" alt="vinny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS"></code>
   <code><img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
