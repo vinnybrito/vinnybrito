@@ -41,7 +41,7 @@
 ### Contact
 
 <div> 
-  <a href="https://www.linkedin.com/in/vinicius-rbrito15/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinicius-rbrito/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href = "mailto: viny.rbrito18@gmail.com">
@@ -51,5 +51,3 @@
     <!-- <img width="200px" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
   </p>
 </div>
-
-![Snake animation](https://github.com/vinnybrito/vinnybrito/blob/output/github-contribution-grid-snake.svg)
