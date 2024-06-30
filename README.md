@@ -1,4 +1,6 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&background=902EF200&width=435&lines=Hey%2C+what's+up%3F)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7F7F7&random=false&width=435&lines=Hey+there%2C+how's+it+going%3F)](https://git.io/typing-svg)
+
+<!--## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&background=902EF200&width=435&lines=Hey%2C+what's+up%3F)](https://git.io/typing-svg)-->
 
 <img src="https://user-images.githubusercontent.com/111714040/211964655-7c5d74da-28d7-4eb9-b894-965da153b450.png" 
   min-width="400px" 
@@ -8,7 +10,7 @@
   alt="Computador iuriCode" 
   title = "💻">
 
-### Welcome to my GitHub!
+### Welcome to my GitHub Profile!
 <p>• • • 🌓 • • • 🌎 • • • 🪐 • • • ✨ • • •</p>
 <p>
   My name is Vinicius, and I'm an Android developer focused on Kotlin and front-end development. 
