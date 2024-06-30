@@ -11,7 +11,7 @@
   title = "💻">
 
 ### Welcome to my GitHub Profile!
-<p>• • • 🌓 • • • 🌎 • • • 🪐 • • • ✨ • • •</p>
+<p>• • • • 🌓 • • • 🌎 • • • 🪐 • • • ✨ • • • •</p>
 <p>
   My name is Vinicius, and I'm an Android developer focused on Kotlin and front-end development. 
   I'm passionate about creating mobile apps that are intuitive, efficient, and provide a smooth 
