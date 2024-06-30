@@ -18,7 +18,7 @@
   and engaging user experience.
 </p>
 
-<p>Mobile Development Skills👇🏽</p>
+<p>Mobile Development Skills 👇🏽</p>
 <div style="display: inline_block">
     <img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" title = "Android" />
     <img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title = "Kotlin" />
@@ -27,7 +27,7 @@
 
 <hr width="300px">
 
-<p>Web Development Skills👇🏽</p>
+<p>Web Development Skills 👇🏽</p>
 <div>
     <img align="center" alt="vinny-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML" />
     <img align="center" alt="vinny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS">
