@@ -13,9 +13,10 @@
 ### Welcome to my GitHub Profile!
 <p>• • • • 🌓 • • • 🌎 • • • 🪐 • • • ✨ • • • •</p>
 <p>
-  My name is Vinicius, and I'm an Android developer focused on Kotlin and front-end development. 
-  I'm passionate about creating mobile apps that are intuitive, efficient, and provide a smooth 
-  and engaging user experience.
+  I currently work as a Junior Android Developer at Itaú Unibanco, one of the largest financial
+  institutions in South America. My role involves developing mobile applications using Kotlin 
+  and the MVVM architectural pattern. Additionally, I work with modern development practices, 
+  unit testing, and continuous integration to ensure the quality and scalability of applications.
 </p>
 
 <p>Mobile Development Skills 👇🏽</p>
